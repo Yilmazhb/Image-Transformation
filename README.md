@@ -35,6 +35,7 @@ draw_transformations(axes[1], transforms)
 plt.show()
 ```
 Result:
+
 <img width="867" height="499" alt="Screenshot 2025-12-03 090401" src="https://github.com/user-attachments/assets/6ffad127-f5af-457e-8f35-7bd800be4533" />
 
 ## For several examples:
@@ -53,5 +54,6 @@ plt.tight_layout()
 plt.show()
 ```
 Result:
+
 <img width="1294" height="978" alt="Screenshot 2025-12-03 091000" src="https://github.com/user-attachments/assets/3df78b81-baf8-4bc5-9608-08d6bd3be79b" />
 
