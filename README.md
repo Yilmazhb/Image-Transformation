@@ -57,3 +57,5 @@ Result:
 
 <img width="1294" height="978" alt="Screenshot 2025-12-03 091000" src="https://github.com/user-attachments/assets/3df78b81-baf8-4bc5-9608-08d6bd3be79b" />
 
+## Conclusion
+This project demonstrates how various image transformations can be implemented and visualised in practice. Colour coding and uniform representation of the transformations applied increase the transparency of the changes, which is particularly helpful when preparing data for machine learning.
