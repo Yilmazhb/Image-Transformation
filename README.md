@@ -1,4 +1,4 @@
-# Image-Transformation
+# Image Transformation
 Image transformation refers to the process of systematically altering or adjusting digital images to achieve specific effects or prepare the data for machine learning. Such transformations can include geometric changes such as flipping, rotating, cropping, or colour adjustments such as brightness, contrast, saturation, and hue.
 
 These techniques have several advantages:
