@@ -59,3 +59,5 @@ Result:
 
 ## Conclusion
 This project demonstrates how various image transformations can be implemented and visualised in practice. Colour coding and uniform representation of the transformations applied increase the transparency of the changes, which is particularly helpful when preparing data for machine learning.
+
+Image transformation is an essential part of modern image processing, as it both increases data diversity and improves model robustness. This repository offers a clear and reusable implementation that can be easily integrated into your own projects and is suitable for teaching, research and professional demonstrations.
